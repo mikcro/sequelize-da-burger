@@ -1,0 +1,27 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "Mikes-MacBook-Pro:eat-da-burger mikecroft$ heroku create Creating app... done, ⬢ calm-meadow-94171 https://calm-meadow-94171.herokuapp.com/ | https://git.heroku.com/calm-meadow-94171.git Mikes-MacBook-Pro:eat-da-burger mikecroft$",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express-handlebars": "^3.0.0",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikcro/eat-da-burger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikcro/eat-da-burger/issues"
+  },
+  "homepage": "https://github.com/mikcro/eat-da-burger#readme"
+}
